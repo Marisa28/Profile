@@ -68,14 +68,15 @@ footer {
 
 .card header {
   padding: 20px;
+  background: #13293d;
+  color: #fff;
 }
 
-.card p {
-  text-align: center;
-}
+
 
 .card img {
   width: 100%;
+  min-width: 400px;
 }
 
 
